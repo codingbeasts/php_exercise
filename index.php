@@ -1,4 +1,4 @@
-<?php require_once "./view/ex_header.php" ?>
+<?php require_once "./view/ex_header.php"; ?>
 <div>
     <h4>PHP Files</h4>
     <h4>Variables in PHP</h4>
@@ -58,9 +58,5 @@
     <ul>
         <li><a href="variables/counter.php">Counters</a></li>
     </ul>
-    <h4>Interview</h4>
-    <ul>
-        <li><a href="data_types/interview.php">Interview</a></li>
-    </ul>
 </div>
-<?php require_once "./view/ex_footer.php" ?>
+<?php require_once "./view/ex_footer.php"; ?>

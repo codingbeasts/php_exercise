@@ -21,6 +21,7 @@
             <li><b>strpos()</b> - Word position on String Length : <? echo strpos($long_string, "Ipsump"); ?></li>
             <li><b>stripos()</b> - Word Position on i<sup>th</sup> : <? echo stripos($long_string, "Gymps"); ?></li>
             <li><b>strrev()</b> - Reverse String : <? echo strrev($long_string); ?></li>
+            <li><b>strcmp()</b> - Compare two String : <? echo strcmp('dsfasfddsaf','dsfasfddsaf'); ?></li>
             <li><b>strtoupper()</b> - String To Upper Case : <? echo strtoupper($long_string); ?></li>
             <li><b>strtolowerr()</b> - String To Lower Case : <? echo strtolower($long_string); ?></li>
             <li><b>substr()</b> - Print Sub String from nth Position in Positive : <? echo substr($long_string, "5"); ?>
